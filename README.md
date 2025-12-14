@@ -45,7 +45,7 @@ project/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/online-python-compiler.git
+git clone https://github.com/AmirSohel2023/online-python-compiler.git
 ```
 
 2. Navigate to project folder
